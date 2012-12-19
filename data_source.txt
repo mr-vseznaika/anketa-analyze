@@ -1,0 +1,4 @@
+<?php
+$anketa['user1'] = array('apple','orange','pineapple','plum');
+$anketa['user2'] = array('apple','coconut','grape','orange');
+?>
